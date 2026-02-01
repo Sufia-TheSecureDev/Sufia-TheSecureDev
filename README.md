@@ -1,5 +1,3 @@
-![sufia-TheSecureDev](https://media.licdn.com/dms/image/D5616AQFWnmlOJOyvFg/profile-displaybackgroundimage-shrink_350_1400/0/1685171518431?e=1721865600&v=beta&t=1c9VjHAzGUoLh64qRecNkp4AsJq6Ugt636TR5VPoDyg)
-
 ## Hi there 👋, I'm Sufia  
 ### Aspiring Blue Team Analyst & Security-Focused Developer
 
