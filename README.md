@@ -1,11 +1,11 @@
 ## Hi there 👋, I'm Sufia  
 ### Aspiring Blue Team Analyst & Security-Focused Developer
 
-I'm a security-focused developer transitioning into Cybersecurity, with 1.5+ years of professional experience in PHP/Laravel web development and hands-on practice in Blue Team operations, Python security automation, and security tooling. [file:1]  
-I enjoy building tools that detect, monitor, and respond to threats, and I love combining my web development background with defensive security to better secure applications and infrastructure. [file:1]
+I'm a security-focused developer transitioning into Cybersecurity, with 1.5+ years of professional experience in PHP/Laravel web development and hands-on practice in Blue Team operations, Python security automation, and security tooling. 
+I enjoy building tools that detect, monitor, and respond to threats, and I love combining my web development background with defensive security to better secure applications and infrastructure.
 
-Currently, I’m advancing my skills through a Professional Cyber Security Advanced course (Linux for Security, Networking, Python for Security, Recon, Scanning, Metasploit, Malware Analysis, Splunk/SIEM, Incident Response, Windows Forensics). [file:1]  
-My near-future goal is to work as a SOC / Blue Team Analyst, focusing on log analysis, security automation, and incident response, while still applying secure coding practices from my software development journey. [file:1]
+Currently, I’m advancing my skills through a Professional Cyber Security Advanced course (Linux for Security, Networking, Python for Security, Recon, Scanning, Metasploit, Malware Analysis, Splunk/SIEM, Incident Response, Windows Forensics).
+My near-future goal is to work as a SOC / Blue Team Analyst, focusing on log analysis, security automation, and incident response, while still applying secure coding practices from my software development journey. 
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Sufia-TheSecureDev) 
 
@@ -13,26 +13,26 @@ My near-future goal is to work as a SOC / Blue Team Analyst, focusing on log ana
 
 ## 🛡️ Cybersecurity Focus
 
-- 🔍 Python security tools & Blue Team automations (file integrity monitoring, registry checks, service monitoring, CVE lookup via APIs). [file:1]  
-- 📊 SOC automation: VirusTotal integrations, Telegram alert bots, Windows Event Log analysis. [file:1]  
-- 🌐 OSINT tooling: LinkedIn and data scrapers with automated delivery for reconnaissance and threat intel. [file:1]  
-- ✉️ Email analysis: automation for phishing simulation and analysis workflows. [file:1]  
-- 💻 Labs: Kali Linux, Metasploitable 2 penetration testing, Packet Tracer network labs, file permission & integrity–focused CLI tools. [file:1]  
+-  Python security tools & Blue Team automations (file integrity monitoring, registry checks, service monitoring, CVE lookup via APIs). 
+-  SOC automation: VirusTotal integrations, Telegram alert bots, Windows Event Log analysis.
+-  OSINT tooling: LinkedIn and data scrapers with automated delivery for reconnaissance and threat intel.  
+-  Email analysis: automation for phishing simulation and analysis workflows.
+-  Labs: Kali Linux, Metasploitable 2 penetration testing, Packet Tracer network labs, file permission & integrity–focused CLI tools.
 
 <br>
 
 ## 🔭 Current & Future Goals
 
-- 🎯 Short term:  
-  - Strengthen SIEM (Splunk) skills and Windows/Linux log analysis. [file:1]  
-  - Build more production-ready Blue Team tools (alerting, enrichment, triage helpers). [file:1]  
+-  Short term:  
+  - Strengthen SIEM (Splunk) skills and Windows/Linux log analysis. 
+  - Build more production-ready Blue Team tools (alerting, enrichment, triage helpers). 
 
-- 🚀 Mid term:  
-  - Land a role as a Junior SOC / Blue Team Analyst. [file:1]  
+-  Mid term:  
+  - Land a role as a Junior SOC / Blue Team Analyst. 
   - Contribute open-source security tools and write docs/blogs explaining investigations and automations.  
 
-- 🌱 Always learning:  
-  - Linux for security, malware analysis basics, incident response workflows, and secure coding patterns for web apps and APIs. [file:1]  
+-  Always learning:  
+  - Linux for security, malware analysis basics, incident response workflows, and secure coding patterns for web apps and APIs. 
 
 <br>
 
@@ -67,20 +67,20 @@ My near-future goal is to work as a SOC / Blue Team Analyst, focusing on log ana
 
 <br>
 
-## 💼 Experience Snapshot
+##  Experience Snapshot
 
-- 🧑‍🏫 Teaching Assistant (C Programming, DBMS, Computer Networks) – strengthened fundamentals and explained core concepts to students. [file:1]  
-- 🧩 Laravel & PHP Developer – built secure REST APIs, followed secure coding practices, and implemented data protection in production apps. [file:1]  
+-  Teaching Assistant (C Programming, DBMS, Computer Networks) – strengthened fundamentals and explained core concepts to students. 
+-  Laravel & PHP Developer – built secure REST APIs, followed secure coding practices, and implemented data protection in production apps. 
 
 <br>
 
-## 💬 Let’s Connect
+##  Let’s Connect
 
-- 💬 Ask me about:  
-  - Python security automation, Blue Team tooling, basic SOC workflows. [file:1]  
-  - Secure web app / REST API development with Laravel & PHP. [file:1]  
+-  Ask me about:  
+  - Python security automation, Blue Team tooling, basic SOC workflows. 
+  - Secure web app / REST API development with Laravel & PHP.  
 
-- 📫 Reach me here:  
+-  Reach me here:  
 
 [![GitHub](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sufia-TheSecureDev)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sufia-thesecuredev/)
